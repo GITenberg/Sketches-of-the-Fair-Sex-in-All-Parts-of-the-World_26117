@@ -1,0 +1,29 @@
+_repo: Sketches-of-the-Fair-Sex-in-All-Parts-of-the-World_26117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2008-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women'
+- !lcc 'HQ'
+title: Sketches of the Fair Sex, in All Parts of the World
+url: http://www.gutenberg.org/ebooks/26117
